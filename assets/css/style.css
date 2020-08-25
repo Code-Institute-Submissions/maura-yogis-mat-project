@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600;700&family=Sora:wght@200;300;400;500;600;700&display=swap');
+
+/*----------------Images*/
+
+header {
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+}
+
+#circle-container {
+  width: 500px;
+  height: 500px;
+  padding: 0px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 70px auto;
+}
+
+#circle-cover-bg{
+  background: url("../images/lotdance.jpg") no-repeat center center;
+  height: 100%;
+  border-radius: 50%;
+  padding: 10px;
+}
+/*--------------Navbar*/
+
+.navbar {
+    font-family: "Ubuntu", sans-serif;
+    padding: .5rem;
+    font-size: 1.15rem;
+    font-weight: 500;
+    letter-spacing: rem;
+    box-shadow: 0 0.5rem .5rem rgba(0, 0, 0, 0.2)
+}
+.nav-item {
+    padding: 1.5rem;
+}
+
+.nav-link {
+    color:rgb(0, 0, 0)!important;
+}
+
+.nav-link.active
+.nav-link:hover {
+    color: #63ad73!important;
+}
