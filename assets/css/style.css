@@ -3,22 +3,31 @@
 
 header {
 }
-
+h2 {
+    font-family: "Sora", sans-serif;
+    font-size: 3.5rem;
+    font-weight: 500;
+    text-align: center;
+    margin: 1px;
+    padding-top: 2rem;
+}
 
 #center-about {
     width: 33%;
     margin: 0 auto;
+   
 }
 
 #circle-container {
-  width: 500px;
-  height: 500px;
+  width: 475px;
+  height: 475px;
   padding: 0px;
   border-style: solid;
   border-color: #cccccc;
   border-width: 1px;
   border-radius: 50%;
   margin: 70px auto;
+  
 }
 
 #circle-cover-bg{
@@ -26,6 +35,7 @@ header {
   height: 100%;
   border-radius: 50%;
   padding: 10px;
+  
 }
 /*--------------Navbar*/
 
@@ -35,7 +45,6 @@ header {
     font-size: 1.15rem;
     font-weight: 500;
     text-transform: capitalize;
-    letter-spacing: rem;
     box-shadow: 0 0.5rem .5rem rgba(87, 85, 85, 0.2)
 }
 .nav-item {
@@ -52,10 +61,22 @@ nav li a:hover {
 
 
 /*--------------Footer*/
-footer {
+.footer-all {
+    font-family: "Sora", sans-serif;
     padding-right: 1.5rem;
 }
 
-.list-inline i {
-font-size: 200%;
+.social-links i {
+    font-size: 145%;
+    margin: 1%;
+    color: rgb(228, 136, 74);
+}
+
+.stay-connected{
+    margin-left: 1%;
+}
+
+.privacy {
+   margin-top: 25px;
+   padding-right: 1.5rem;
 }
