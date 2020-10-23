@@ -59,6 +59,9 @@ nav li a:hover {
     color: white;
 }
 
+.navbar-brand img {
+    height: 40px;
+}
 
 /*--------------Footer*/
 .footer-all {
