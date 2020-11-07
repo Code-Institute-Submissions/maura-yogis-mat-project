@@ -14,10 +14,9 @@ header {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  display:flex;
+  display:;
   align-items:center;
   justify-content:center;
-
   position: relative;
 }
 
@@ -29,17 +28,18 @@ h2 {
     text-align: center;
     margin: 1px;
     padding-top: 2rem;
+    
 }
 
 #center-about {
-    width: 33%;
+    width: %;
     margin: 0 auto;
    
 }
 
 #circle-container {
-  width: 475px;
-  height: 475px;
+  width: 150px;
+  height: 150px;
   padding: 0px;
   border-style: solid;
   border-color: #cccccc;
@@ -83,6 +83,23 @@ nav li a:hover {
     width: 60px;
     border-radius: 50%;
 }
+/*--------------Main*/
+.opaque-overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-color: rgb(0, 0, 0, 0.21);
+
+}
+h2 {
+    color: #3fb481;
+}
+
+/*--------------Main*/
+
+
 
 /*--------------Footer*/
 .footer-all {
@@ -111,8 +128,48 @@ nav li a:hover {
 .privacy p {
     font-size: 10px;
 }
-/*--------------Footer*/
-h2 {
-    color: rgb(0, 0, 0, 0.5);
+/*------------/.Footer*/
 
+@media (min-width:900px) {
+    .circle-pic {
+        width: ;
+        height:
+    }
+    .circle-cover-bg {
+    }
+
+    #circle-container {
+  width: 475px;
+  height: 475px;
+  padding: 0px;
+  border-style: solid;
+  border-color: #cccccc;
+  border-width: 1px;
+  border-radius: 50%;
+  margin: 70px auto;
 }
+
+#circle-cover-bg{
+    height: 100%;
+}
+
+    footer {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+}
+/*--------------Location*/
+.location {
+    background-color: rgb(248, 166, 139);
+    padding: 1.5rem;
+    margin-top: 3rem;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+h4 {
+    font-family: "Sora", sans-serif;
+}
+/*------------/.Location*/
