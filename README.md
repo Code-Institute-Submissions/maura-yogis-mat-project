@@ -9,7 +9,7 @@ The website acts as a platform to bring together those interested to take part i
 The website includes information of locations and times where activities organised by 'The Yogi's Mat' take place.
 The website targets people ages 18 or above.
                                
-                               [Link](https://maurasj.github.io/maura-yogis-mat-project/.)
+                    [The Yogi's Mat](https://maurasj.github.io/maura-yogis-mat-project/.)
 
 ## UX
 
@@ -28,9 +28,9 @@ The website targets people ages 18 or above.
 5. As a begginer I want to meet new people in the yoga community and share tips and experiences.
 
 ### Wireframes
-Mock ups of the project can be found, on the wireframe.
-<img src="assets/images/wireframes1.png" alt="">
-
+Mock ups of the project can be found on these links:
+[1.wireframe](assets/images/wireframe-1.png)
+[2.wireframe](assets/images/wireframe-2.png)
 
 
 ## Features
@@ -61,7 +61,7 @@ This page contains a brief description for the user, and for any new visitors, a
 * Canvas app, for the design of the logo.
 
 ## Testing
-(../testing.md)
+[Testing.md](testing.md)
 * The website is readable on both big and small devices, on big screens like computers, the writing is visible as well as the pictures.
 On small devices everything is also very clear, the one issue it contains when switching from small to bigger screens and vice versa
 are the photos. the photo placed on the circular container changes sizes when on a smaller screen however, at a cost of the whole image itself.
