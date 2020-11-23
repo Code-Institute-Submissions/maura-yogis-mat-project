@@ -9,7 +9,7 @@ The website acts as a platform to bring together those interested to take part i
 The website includes information of locations and times where activities organised by 'The Yoga Mat' take place.
 The website targets people ages 18 or above.
                                
-                    [The Yoga Mat](https://maurasj.github.io/maura-yogis-mat-project/)
+[The Yoga Mat](https://maurasj.github.io/maura-yogis-mat-project/)
 
 ## UX
 
