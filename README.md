@@ -1,4 +1,4 @@
-# The Yogi's Mat
+# The Yoga Mat
 <img src="assets/images/yogalogo2.png" alt="">
 
 
@@ -6,10 +6,10 @@
 
 A website for people who love yoga, those who are experienced and new to the world of yoga.
 The website acts as a platform to bring together those interested to take part in yoga related activities, as well as networking and socialsiing.
-The website includes information of locations and times where activities organised by 'The Yogi's Mat' take place.
+The website includes information of locations and times where activities organised by 'The Yoga Mat' take place.
 The website targets people ages 18 or above.
                                
-                    [The Yogi's Mat](https://maurasj.github.io/maura-yogis-mat-project/.)
+                    [The Yoga Mat](https://maurasj.github.io/maura-yogis-mat-project/)
 
 ## UX
 
@@ -36,7 +36,7 @@ Mock ups of the project can be found on these links:
 ## Features
 From top to bottom, all pages consist of a **navigation bar** with **logo** placed on the left hand side of it. They also have
 the same **background image** and **footer**. The **Footer** contains links to the social media pages- that in the future would be 
-linked to the Yogi's mat.
+linked to the Yoga mat.
 
 #### Home
 In addition to the above statemnt, the **Home** page consists of a header and a unique photo in a circular container.
