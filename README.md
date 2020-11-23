@@ -1,6 +1,6 @@
 # The Yogi's Mat
 <img src="assets/images/yogalogo2.png" alt="">
-![Image](http://url/a.png)
+
 
 
 
@@ -9,7 +9,7 @@ The website acts as a platform to bring together those interested to take part i
 The website includes information of locations and times where activities organised by 'The Yogi's Mat' take place.
 The website targets people ages 18 or above.
                                
-                               [Link](http://a.com)
+                               [Link](https://maurasj.github.io/maura-yogis-mat-project/.)
 
 ## UX
 
@@ -28,8 +28,8 @@ The website targets people ages 18 or above.
 5. As a begginer I want to meet new people in the yoga community and share tips and experiences.
 
 ### Wireframes
-(insert file)
-
+Mock ups of the project can be found, on the wireframe.
+<img src="assets/images/wireframes1.png" alt="">
 
 
 
@@ -57,48 +57,61 @@ This page contains a brief description for the user, and for any new visitors, a
 * Git
 * BootsrapCDN- to facilitate the design.
 * Google Fonts- to provide a range of fonts.
-* Jquery
+* jquery
 * Canvas app, for the design of the logo.
 
 ## Testing
+(../testing.md)
 * The website is readable on both big and small devices, on big screens like computers, the writing is visible as well as the pictures.
 On small devices everything is also very clear, the one issue it contains when switching from small to bigger screens and vice versa
 are the photos. the photo placed on the circular container changes sizes when on a smaller screen however, at a cost of the whole image itself.
 * The **Contact Us** page is straight forward, and it works well.
 
 ## Deployment
-This project was created on Github, and commited to Git.
-In order to deploy the website.
+This project was created on Github, and commited to Git
+In order to deploy the website
 To deploy this to Github pages from its GitHub repository, these are the instructions:
 1. Login to GitHub.
-2. Select **maurasj/1st-milestone-project - master**
-3. 
-4. Scroll down to find the GitHub pages
-5.
-6.
-7.
+2. Select file **maura-yogis-mat-project**
+3. Select Settings from the menu
+4. Scroll down to find the **GitHub** pages
+5. On the options for **Branch** choose **master**
+6. Click the **save** button 
+7. The webpage refreshes itself
+8. Scroll down again to find **GitHub** pages and copy link shown
 
 ### To run this project localy:
-1. Create a GitHub account
-2.
+The follwoing instructions will allow the project to be cloned onto Gitpod
+1. open the Chrome browser
+2. Create a GitHub account
 3.
 4.
+5. 
+6. 
 
 ## Media
+* The Media is inspired by locations exercises of Yoga can take place.
+
+## Credits 
+
+### Code
+* A huge part of the CSS and HTML codes for the navigation bar were taken, from  
+a video on youtube by Drew Ryan (https://www.youtube.com/watch?v=TJF4ldO91n4)
+
+### Media 
 * The **photos** used on this project, were my own.
-* The Model in the photos is Emerald Peasah.
 
-
-
-## Acknowledgements
+### Acknowledgements
 I recieved inspiration for this project from my friend who loves to practice yoga on a weekly basis.
 * My mentor Anthony Ngene provied guidance on the design, and help with some coding, specifically in the footer,
 and making the pages more resposnive.
 * The code-institute slack team.
-* A video on youtube by Drew Ryan (https://www.youtube.com/watch?v=TJF4ldO91n4)
-* Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
 
-## Contributors
+* Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
+* A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
+specifically on making the circular picture more responsive.
+
+### Contributors
 *
 
 /*-----license and copyright*/
