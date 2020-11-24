@@ -52,20 +52,19 @@ and with that it also contains a **submit** button.
 This page contains a brief description for the user, and for any new visitors, about the purpose of it.
 
 ## Technologhies used
-* This project uses technologies such as CSS and HTML.
-* GitHub
-* Git
-* BootsrapCDN- to facilitate the design.
-* Google Fonts- to provide a range of fonts.
-* jquery
-* Canvas app, for the design of the logo.
+* This project uses languages such as CSS and HTML
+* [Gitpod](https://www.gitpod.io)- Gitpod is the IDE used to delop the project
+* [GitHub](https://github.com)- to store the project's code and allows others to view and contribute
+* [BootsrapCDN](https://getbootstrap.com/)- to facilitate the design and make the site more responsive
+* [Google Fonts](https://fonts.google.com/)- to style and provide a range of fonts
+* [jQuery](https://jquery.com/)
+* [Canva](https://www.canva.com/q/pro/?v=2&utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_UK_EN_CanvaPro_Branded_Tier1_Canva_EM&gclsrc=aw.ds&&gclid=CjwKCAiA-_L9BRBQEiwA-bm5frwFl1D2whFZlLtBaYPS7FNAz3PIEyg-FCbMRm7vhCAkSdlVTymoXBoCs08QAvD_BwE&gclsrc=aw.ds) app, for the design of the logo
+* [Tinypng](https://tinypng.com), to compress the sizes of the images
 
 ## Testing
+Find the testing information on this file:
 [Testing.md](testing.md)
-* The website is readable on both big and small devices, on big screens like computers, the writing is visible as well as the pictures.
-On small devices everything is also very clear, the one issue it contains when switching from small to bigger screens and vice versa
-are the photos. the photo placed on the circular container changes sizes when on a smaller screen however, at a cost of the whole image itself.
-* The **Contact Us** page is straight forward, and it works well.
+
 
 ## Deployment
 This project was created on Github, and commited to Git
@@ -84,8 +83,8 @@ To deploy this to Github pages from its GitHub repository, these are the instruc
 The follwoing instructions will allow the project to be cloned onto Gitpod
 1. open the Chrome browser
 2. Create a GitHub account
-3.
-4.
+3. Click on this link () whilst logged in
+4. 
 5. 
 6. 
 
@@ -102,11 +101,10 @@ a video on youtube by Drew Ryan (https://www.youtube.com/watch?v=TJF4ldO91n4)
 * The **photos** used on this project, were my own.
 
 ### Acknowledgements
-I recieved inspiration for this project from my friend who loves to practice yoga on a weekly basis.
+I recieved inspiration for this project from a friend who loves to practice yoga on a weekly basis.
 * My mentor Anthony Ngene provied guidance on the design, and help with some coding, specifically in the footer,
 and making the pages more resposnive.
 * The code-institute slack team.
-
 * Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
 * A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
 specifically on making the circular picture more responsive.
@@ -119,3 +117,5 @@ specifically on making the circular picture more responsive.
 ### Problems
 There is a problem with the circular picture, in order to make it responsive ,the viewer is unable to see the full picture.
 
+### Disclaimer
+The contents found in this website are only for educational purposes.
