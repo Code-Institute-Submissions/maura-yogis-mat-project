@@ -1,6 +1,5 @@
 # The Yoga Mat
-<img src="assets/images/yogalogo2.png" alt="">
-
+<img src="assets/images/yogalogo2.png" title="logo">
 
 
 
@@ -59,7 +58,8 @@ This page contains a brief description for the user, and for any new visitors, a
 * [Google Fonts](https://fonts.google.com/)- to style and provide a range of fonts
 * [jQuery](https://jquery.com/)
 * [Canva](https://www.canva.com/q/pro/?v=2&utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_UK_EN_CanvaPro_Branded_Tier1_Canva_EM&gclsrc=aw.ds&&gclid=CjwKCAiA-_L9BRBQEiwA-bm5frwFl1D2whFZlLtBaYPS7FNAz3PIEyg-FCbMRm7vhCAkSdlVTymoXBoCs08QAvD_BwE&gclsrc=aw.ds) app, for the design of the logo
-* [Tinypng](https://tinypng.com), to compress the sizes of the images
+* [Tinypng](https://tinypng.com)- to compress the sizes of the images
+* [Photoshop](https://photoshop.adobe.com/_)- to resize images
 
 ## Testing
 Find the testing information on this file:
@@ -83,7 +83,7 @@ To deploy this to Github pages from its GitHub repository, these are the instruc
 The follwoing instructions will allow the project to be cloned onto Gitpod
 1. open the Chrome browser
 2. Create a GitHub account
-3. Click on this link () whilst logged in
+3. Click on this link [The Yoga Mat](https://github.com/maurasj/maura-yogis-mat-project) whilst logged in
 4. 
 5. 
 6. 
@@ -96,26 +96,26 @@ The follwoing instructions will allow the project to be cloned onto Gitpod
 ### Code
 * A huge part of the CSS and HTML codes for the navigation bar were taken, from  
 a video on youtube by Drew Ryan (https://www.youtube.com/watch?v=TJF4ldO91n4)
+* Code institute- for the Love Running project- which inspired the photo made circular 
+on the Home page. 
+* The code for the background image was taken from a **code institute** lesson (whiskey page)
 
 ### Media 
 * The **photos** used on this project, were my own.
 
 ### Acknowledgements
-I recieved inspiration for this project from a friend who loves to practice yoga on a weekly basis.
-* My mentor Anthony Ngene provied guidance on the design, and help with some coding, specifically in the footer,
-and making the pages more resposnive.
-* The code-institute slack team.
+* I recieved inspiration for this project from a friend who loves to practice yoga on a weekly basis.
+* Thank you to my mentor Anthony Ngene who provied guidance on the design, and help with some coding,
+ specifically in the footer, and making the pages more responsive.
+* The code-institute slack team for the support, and helping me navigate Github.
 * Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
 * A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
 specifically on making the circular picture more responsive.
 
-### Contributors
-*
-
-/*-----license and copyright*/
 
 ### Problems
-There is a problem with the circular picture, in order to make it responsive ,the viewer is unable to see the full picture.
+There is a problem with the circular picture, in order to make it responsive ,the viewer is unable 
+to see the full picture.
 
 ### Disclaimer
 The contents found in this website are only for educational purposes.
