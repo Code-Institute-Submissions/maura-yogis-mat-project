@@ -34,9 +34,13 @@ however once its loaded more than once it loads faster everytime.
 * The contact page, on Firefox acts slightly different than on safari or Chrome, 
 the required boxes, turn read when empty.
 
-## Testing on desktop and mobile phones
+## Testing on desktop 
 - On mobile phones, the circular image takes longer to appear
 - The images are as clear on the mobile phone as they are on a desktop
+
+## Testing on mobile phones
+- 
+- 
 
 ## Unsolved Bugs
 * The circular picture, is more centered when shown on Safari, when on Chrome it goes over the footer (as intended)

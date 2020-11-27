@@ -20,12 +20,17 @@ The website targets people ages 18 or above.
 
 
 ### User Stories
+As a practicioner of yoga:
 1. As a user of this website the desire is to get in contact with other yoga enthusiats and meet up.
 2. As a user the goal would be to find appropriate locations to practice yoga.
 3. As a user the aim is to expand the community I am already a part of as a person who practices yoga.
 4. As a fitness enthusiast, I want to start doing Yoga, and meet people who are already experienced, through the website.
-5. As a begginer I want to meet new people in the yoga community and share tips and experiences.
-
+As a newcomer:
+1. As a begginer I want to meet new people in the yoga community and share tips and experiences.
+2. Being knew to yoga, I want to find locations where yoga practices take place and join in.
+3. As someone who has never practiced yoga, I would like to find out more about the subject.
+4. As a person new to the practices of yoga, I would like to get a glimpse of what the exercises entail.
+5. 
 ### Wireframes
 Wireframes of the project can be found on these links:
 [1.wireframe](assets/images/wireframe-1.png)
@@ -83,16 +88,42 @@ To deploy this to Github pages from its GitHub repository, these are the instruc
 
 ### To run this project localy:
 The follwoing instructions will allow the project to be cloned onto Gitpod
-1. open the Chrome browser
+1. Open the Chrome browser
 2. Create a GitHub account
 3. Click on this link [The Yoga Mat](https://github.com/maurasj/maura-yogis-mat-project) whilst logged in
-4. 
-5. 
+4. Just after the repository name, there is a green button with the name 'Gitpod', next click on the button with the name **Code**
+5. Copy the Link that shows up abd copy it to your local IDE
 6. 
+7. 
 
 ## Media
 * The Media is inspired by locations exercises of Yoga can take place.
 
+## Choice for Design
+1. Logo
+* The logo is designed with three simple colours, orange, green and white for its background, 
+so its simple, straight to the point, but still pleasant and easy to comprehend.
+* The flower represents nature and its relationship with Yoga.
+2. Background
+* The backgorund is a photograph of a park, that resembles one of the spaces yoga can take place at,
+the nature represents the calmness the exercise can bring to people's lives.
+*
+3. Main picture
+*. Photograph of a yogi, doing the 'lord of the dance' pose, its inviting and creates curiosity for new visitors on the site.
+*
+4. Videos
+* The videos chosen show yoga poses, by an experienced yogi, to inspire enthusiats and newcomers.
+* 
+5. Colors
+* The colors of the website; white, green, and white go back to the logo, to keep it simple but still vibrant.
+* 
+6. Fonts
+* **Sora** was chosen for being very clear to read but still playfull.
+* **Piedra** was chosen because of how playfull and fun it looks, which is what many yogis strive for.
+* **Montserrat** was used because just as Sora its playfull and curvy enough to resemble yoga moves.
+7. 
+* 
+* 
 ## Credits 
 
 ### Code
