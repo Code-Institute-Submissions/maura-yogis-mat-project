@@ -163,10 +163,9 @@ h4 {
 }
 
 /*--------------Contact*/
-input[type="submit" i] {
-    color: #3fb481;
+.contact-label {
+    background-color: whitesmoke;
 }
-
 /*--------------/.Contact*/
 
 /*--------------About Us*/
@@ -178,4 +177,12 @@ margin-top: 25px;
 margin-bottom: 50px;
 margin-left: 25px;
 margin-right: 25px;
+}
+
+/*--------------On The Mat*/
+
+@media (min-){
+    .controls {
+
+    }
 }

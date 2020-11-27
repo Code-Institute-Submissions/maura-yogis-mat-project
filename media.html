@@ -28,15 +28,15 @@
       <!---navbar-->
       <nav class="navbar bg-light navbar-light navbar-expand-sm">
         <div class="container">
-          <a href="index.html" class="navbar-brand logo"
-            ><img src="assets/images/yogalogo2.png" alt="logo" title="logo"
+          <a href="index.html" class="navbar-brand logo">
+            <img src="assets/images/yogalogo2.png" alt="logo" title="logo"
           /></a>
+
           <button
-            class="navbar-toggler ml-auto"
+            class="navbar-toggler ml-auto" aria-label="right align"
             type="button"
             data-toggle="collapse"
-            data-target="#navbarResponsive"
-          >
+            data-target="#navbarResponsive">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -50,11 +50,11 @@
               <li class="nav-item">
                 <a href="contactus.html" class="nav-link">Contact</a>
               </li>
-              <li class="nav-item">
-                <a href="media.html" class="nav-link">About Us</a>
+               <li class="nav-item">
+                <a href="about.html" class="nav-link">About Us</a>
               </li>
               <li class="nav-item">
-                <a href="about.html" class="nav-link">About Us</a>
+                <a href="media.html" class="nav-link">On The Mat</a>
               </li>
             </ul>
           </div>
@@ -62,44 +62,20 @@
       </nav>
     </header>
     <!--/.navbar-->
-    <div class="container-fluid back-image">
-      <h2>Contact us to Connect</h2>
-      <section>
-        <div class="row">
-          <div class="col">
-            <h5></h5>
-            <div class="center-form">
-             <form>
-              <div class="form-group">
-    <label class="contact-label" for="exampleFormControlInput1">Name</label>
-    <input type="text" class="form-control" id="exampleFormControlInput" placeholder="Your Name" required>
-  </div>
-  <div class="form-group">
-    <label class="contact-label" for="exampleFormControlInput1">Email address</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
-  </div>
-  <div class="form-group">
-    <label class="contact-label" for="exampleFormControlSelect1">What is your query about?</label>
-    <select class="form-control" id="exampleFormControlSelect1" required>
-      <option>Location</option>
-      <option>Online sessions</option>
-      <option>Hot Yoga</option>
-      <option>Events</option>
-      <option>Other</option>
-    </select>
-  </div>
-  <div class="form-group">
-    <label class="contact-label" for="exampleFormControlTextarea1">Example textarea</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
-  <button type="button" value="Submit" class="btn btn-success" active aria-pressed="true">Send Message</button>
-  </div>
-</form>
-
-            </div>
-          </div>
-        </div>
-      </section>
-    </div>
+    <main>
+      <div class="container-fluid back-image">
+        <div class="opaque-overlay">&nbsp;</div>
+        <h2>On The Mat</h2>
+        <section class=>
+          <video width="300" height="150" controls>
+          <source src="assets/images/yogamovie.mp4" type="video/mp4">
+          </video>
+          <video width="300" height="150" controls>
+          <source src="assets/images/yogamovie1.mp4" type="video/mp4">
+          </video>
+        </section>
+      </div>
+    </main>
     <!---footer-->
     <footer class="container-fluid bg-light footer-all">
       <div class="row py-4">
@@ -107,25 +83,25 @@
           <p>Stay Connected With Us</p>
           <ul class="list-inline social-links">
             <li class="list-inline-item">
-              <a target="_blank" href="https://www.instagram.com/">
+              <a target="_blank" rel="noopener" href="https://www.instagram.com/">
                 <i class="fab fa-instagram-square" aria-hidden="true"></i>
                 <span class="sr-only">Instagram</span>
               </a>
             </li>
             <li class="list-inline-item">
-              <a target="_blank" href="https://www.linkedin.com/">
+              <a target="_blank" rel="noopener" href="https://www.linkedin.com/">
                 <i class="fab fa-linkedin" aria-hidden="true"></i>
                 <span class="sr-only">LinkedIn</span>
               </a>
             </li>
             <li class="list-inline-item">
-              <a target="_blank" href="https://twitter.com/i/flow/signup">
+              <a target="_blank" rel="noopener" href="https://twitter.com/i/flow/signup">
                 <i class="fab fa-twitter" aria-hidden="true"></i>
                 <span class="sr-only">Twitter</span>
               </a>
             </li>
             <li class="list-inline-item">
-              <a target="_blank" href="https://www.facebook.com/">
+              <a target="_blank" rel="noopener" href="https://www.facebook.com/">
                 <i class="fab fa-facebook" aria-hidden="true"></i>
                 <span class="sr-only">Facebook</span>
               </a>
@@ -141,7 +117,6 @@
         <div class="row">
           <div class="privacy col-sm justify-content-right">
             <i class="far fa-copyright"></i><h7>copyright</h7>
-
 
             <p>Do not sell my private information</p>
           </div>

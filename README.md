@@ -16,18 +16,18 @@ The website targets people ages 18 or above.
 * To organise yoga activities 
 * To keep people informed about yoga events around the country
 * To inform about the benefits of practicing yoga
-* To bring intersted parties together in regards to yoga
+* To bring interested parties together in regards to yoga
 
 
 ### User Stories
 1. As a user of this website the desire is to get in contact with other yoga enthusiats and meet up.
 2. As a user the goal would be to find appropriate locations to practice yoga.
-3. As a user the aim is to expand the community im already a part of.
-4. As a fitness enthusiast, I want to start doing Yoga, and meet people who are already experienced.
+3. As a user the aim is to expand the community I am already a part of as a person who practices yoga.
+4. As a fitness enthusiast, I want to start doing Yoga, and meet people who are already experienced, through the website.
 5. As a begginer I want to meet new people in the yoga community and share tips and experiences.
 
 ### Wireframes
-Mock ups of the project can be found on these links:
+Wireframes of the project can be found on these links:
 [1.wireframe](assets/images/wireframe-1.png)
 [2.wireframe](assets/images/wireframe-2.png)
 
@@ -56,10 +56,12 @@ This page contains a brief description for the user, and for any new visitors, a
 * [GitHub](https://github.com)- to store the project's code and allows others to view and contribute
 * [BootsrapCDN](https://getbootstrap.com/)- to facilitate the design and make the site more responsive
 * [Google Fonts](https://fonts.google.com/)- to style and provide a range of fonts
-* [jQuery](https://jquery.com/)
+* [jQuery](https://jquery.com/)- for rerefering Javascript, used to make the navbar responsive
 * [Canva](https://www.canva.com/q/pro/?v=2&utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Branded_Tier1_Core_EM&utm_term=REV_UK_EN_CanvaPro_Branded_Tier1_Canva_EM&gclsrc=aw.ds&&gclid=CjwKCAiA-_L9BRBQEiwA-bm5frwFl1D2whFZlLtBaYPS7FNAz3PIEyg-FCbMRm7vhCAkSdlVTymoXBoCs08QAvD_BwE&gclsrc=aw.ds) app, for the design of the logo
 * [Tinypng](https://tinypng.com)- to compress the sizes of the images
 * [Photoshop](https://photoshop.adobe.com/_)- to resize images
+* [Online-converter.com](https://www.online-convert.com/result#j=1789174d-e2b2-486a-b447-f557ebce38f7) to convert the videos from mov to mp4
+
 
 ## Testing
 Find the testing information on this file:
@@ -95,13 +97,16 @@ The follwoing instructions will allow the project to be cloned onto Gitpod
 
 ### Code
 * A huge part of the CSS and HTML codes for the navigation bar were taken, from  
-a video on youtube by Drew Ryan (https://www.youtube.com/watch?v=TJF4ldO91n4)
+a [video on youtube](https://www.youtube.com/watch?v=TJF4ldO91n4) by Drew Ryan 
 * Code institute- for the Love Running project- which inspired the photo made circular 
 on the Home page. 
 * The code for the background image was taken from a **code institute** lesson (whiskey page)
+* In the conect us form, the original code was taken from bootstrap and modified to make it reactive.
+the code for embeding the videos were taken from Dani Krossing’s 
+[YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
 
 ### Media 
-* The **photos** used on this project, were my own.
+* The **photos** and **videos** used on this project, are own by Emerald Peasah.
 
 ### Acknowledgements
 * I recieved inspiration for this project from a friend who loves to practice yoga on a weekly basis.
