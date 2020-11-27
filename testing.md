@@ -28,7 +28,8 @@ however once its loaded more than once it loads faster everytime.
 2. Safari
 * The website loads very quicly on the Safari browser
 * The circular image appears differntly to when on the Chrome browser
-* 
+* The videos won't play on the safari browser
+* an additional video <source> was added with the webm format- this did not make the video play.
 3. Firefox 
 * The page loads faster on the Firefox browser than on Chrome or Safari
 * The contact page, on Firefox acts slightly different than on safari or Chrome, 
@@ -41,8 +42,9 @@ the required boxes, turn read when empty.
 ## Testing on mobile phones
 - 
 - 
-
-## Unsolved Bugs
+## Bugs
+* 
+### Unsolved Bugs
 * The circular picture, is more centered when shown on Safari, when on Chrome it goes over the footer (as intended)
 
 ## Overall

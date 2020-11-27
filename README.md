@@ -136,6 +136,8 @@ on the Home page.
 the code for embeding the videos were taken from Dani Krossing’s 
 [YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
 
+### Text
+* The text found in the project was written by the developer.
 ### Media 
 * The **photos** and **videos** used on this project, are own by Emerald Peasah.
 
