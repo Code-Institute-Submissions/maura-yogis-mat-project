@@ -156,4 +156,4 @@ There is a problem with the circular picture, in order to make it responsive ,th
 to see the full picture.
 
 ### Disclaimer
-The contents found in this website are only for educational purposes.
+The contents found on this website are only for educational purposes.
