@@ -47,6 +47,10 @@ h2 {
   padding: 10px;
   
 }
+
+body {
+    padding-top: 90px;
+}
 /*--------------Navbar*/
 
 .navbar {
@@ -75,11 +79,8 @@ nav li a:hover {
     border-radius: 50%;
 }
 
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
+
+
 /*--------------Main*/
 
 h2 {
@@ -110,6 +111,7 @@ h2 {
 .privacy {
    margin-top: 18px;
    padding-right: 1.5rem;
+   padding-left: 2rem;
 }
 
 
@@ -117,9 +119,6 @@ h2 {
     font-size: 15px;
 }
 
-.privacy .copyright {
-    font-size: 14px;
-}
 
 /*------------/.Footer*/
 
@@ -165,7 +164,9 @@ h4 {
 }
 
 .location-media {
-    height: auto;
+    height:150px;
+    width: 300px;
+    max-width: 100%;
 }
 /*--------------/.yogis*/
 
@@ -178,16 +179,13 @@ h4 {
 margin-top: 3rem;
 }
 
-.row {
-    margin-right: 50px;
-    margin-left: 40px;
-}
+
 /*--------------/.Contact*/
 
 /*--------------About Us*/
 .about-text {
-font-size: 20px;
-background-color: rgb(248, 166, 139);
+font-size: 18px;
+background-color: rgb(218, 129, 99);
 padding: 10px;
 margin-top: 25px;
 margin-bottom: 50px;
@@ -199,27 +197,26 @@ margin-right: 25px;
 /*--------------On The Mat*/
 
 .yogavideo {
-    background-color: rgb(248, 166, 139);
+    background-color: rgb(218, 129, 99);
+    margin-top: 50px;
+        
 }
 
 video {
     width: 300px;
     height: 150px;
-}
-source {
-    width: 300px;
-    height: 150px;
+    max-width: 100%;
 }
 
-source {
-  width: 300px;
-    height: 150px;
-}
 @media (min-width:900px) {
     video {
         width: 500px;
         height: 250px;
     }
+}
+
+.p-videos {
+
 }
 
 /*--------------on multiple tabs*/
