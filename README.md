@@ -52,6 +52,11 @@ The contact page, is to connect users to the organisers, for questions in regard
 propose new ideas. 
 Contains a form control style, where the user would input their email address, name and a written message,
 and with that it also contains a **submit** button.
+#### On The Mat
+This page show a preview of what is to come, the videos make the website more interactive, therefore,
+in a way inviting users to come back.
+The length of the videos is less than 20 seconds, but the video appears at a fast speed, this makes it ore interesting
+to the viewer, as they can see quite a lot of the content but in a short amount of time.
 #### About
 This page contains a brief description for the user, and for any new visitors, about the purpose of it.
 
@@ -107,23 +112,22 @@ so its simple, straight to the point, but still pleasant and easy to comprehend.
 2. Background
 * The backgorund is a photograph of a park, that resembles one of the spaces yoga can take place at,
 the nature represents the calmness the exercise can bring to people's lives.
-*
+* The background was also chosen because of its autumn colours, which resemble the colour theme of the project.
 3. Main picture
-*. Photograph of a yogi, doing the 'lord of the dance' pose, its inviting and creates curiosity for new visitors on the site.
-*
+* Photograph of a yogi, doing the 'lord of the dance' pose, its inviting and creates curiosity for new visitors on the site.
+It also acts as a reflection of what users can expect in the near future.
+* This the colours in the photo compliment the colour theme of the project
 4. Videos
 * The videos chosen show yoga poses, by an experienced yogi, to inspire enthusiats and newcomers.
-* 
+* These videos can act as a tool for practice at home, as well as just for entertainment.
 5. Colors
 * The colors of the website; white, green, and white go back to the logo, to keep it simple but still vibrant.
-* 
+* These colors represent nature, peace, happiness, hope and renewal,
 6. Fonts
 * **Sora** was chosen for being very clear to read but still playfull.
 * **Piedra** was chosen because of how playfull and fun it looks, which is what many yogis strive for.
 * **Montserrat** was used because just as Sora its playfull and curvy enough to resemble yoga moves.
-7. 
-* 
-* 
+
 ## Credits 
 
 ### Code
@@ -135,17 +139,18 @@ on the Home page.
 * In the conect us form, the original code was taken from bootstrap and modified to make it reactive.
 the code for embeding the videos were taken from Dani Krossing’s 
 [YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
+This was modified a little to make it more responsive.
 
 ### Text
 * The text found in the project was written by the developer.
 ### Media 
-* The **photos** and **videos** used on this project, are own by Emerald Peasah.
+* The **photos** and **videos** used on this project, are owned by Emerald Peasah- these were used with permission from the owner.
 
 ### Acknowledgements
-* I recieved inspiration for this project from a friend who loves to practice yoga on a weekly basis.
+* I recieved inspiration for this project from my friend Emerald Peasah who loves to practice yoga on a weekly basis.
 * Thank you to my mentor Anthony Ngene who provied guidance on the design, and help with some coding,
- specifically in the footer, and making the pages more responsive.
-* The code-institute slack team for the support, and helping me navigate Github.
+ specifically in the footer, also helping and guding me in making the pages more responsive.
+* The code-institute slack team for the support, and helping me navigate Github, and helping me fix bugs.
 * Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
 * A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
 specifically on making the circular picture more responsive.

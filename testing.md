@@ -4,10 +4,14 @@
 ## Validating Codes
 The codes for this project were validated by using:
 * [W3C Markup Valitation](https://validator.w3.org)- to validate HTML code
+![HTML validation](assets/images/html-validation1.png)
+- Here is a screenshot of one of the pages validated and no erros or warnings were found.
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)- to validate CSS code
-* []()
+![css validation](assets/images/css-validation.png)
+- Here shows the css code validated and no erros found.
 
 ## Testing User Stories
+Testing the contact us form
  1. Contact us form: Being able to send a message with ease.
 - Visit the **Contact** page
 - Write Name, Email address and message where required.
@@ -23,8 +27,9 @@ The codes for this project were validated by using:
 1. Chrome
 * On the Chrome browser, the website loads at a reasonable rate, the photos take longer to load,
 however once its loaded more than once it loads faster everytime.
-* <img src="assets/images/.png" title="logo">
-* 
+
+
+
 2. Safari
 * The website loads very quicly on the Safari browser
 * The circular image appears differntly to when on the Chrome browser
@@ -38,14 +43,16 @@ the required boxes, turn read when empty.
 ## Testing on desktop 
 - On mobile phones, the circular image takes longer to appear
 - The images are as clear on the mobile phone as they are on a desktop
+- The circular picture, is more centered when shown on Safari, when on Chrome it goes over the footer.
+This has now been fixed, when a row property on css file was deleted.
 
 ## Testing on mobile phones
-- 
+- The videos found o **On The Mat** page won't play on the iphone11.
 - 
 ## Bugs
 * 
 ### Unsolved Bugs
-* The circular picture, is more centered when shown on Safari, when on Chrome it goes over the footer (as intended)
+* The videos found o **On The Mat** page won't play on the iphone11.
 
 ## Overall
 * The website is readable on both big and small devices, on big screens like computers, the writing is visible as well as the pictures.

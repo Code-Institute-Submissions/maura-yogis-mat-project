@@ -219,6 +219,10 @@ video {
 
 }
 
+.col-sm-8 {
+    justify-content: center;
+}
+
 /*--------------on multiple tabs*/
 .container {
     display: flex;
