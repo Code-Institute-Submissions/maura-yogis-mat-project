@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500&family=Montserrat:wght@100;200;300;400;500&family=Piedra:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@500&family=Montserrat:wght500&family=Piedra:wght@400&display=swap');
 /*----------------Images*/
 
 .back-image {
@@ -88,7 +88,6 @@ h2 {
 .footer-all {
     font-family: "Sora", sans-serif;
     padding-right: 1.5rem;
-    background-color: rgb(177, 179, 177);
     font-size: 13px;
 }
 
@@ -115,6 +114,7 @@ h2 {
 .privacy .copyright {
     font-size: 14px;
 }
+
 /*------------/.Footer*/
 
     @media (min-width:900px) {
@@ -140,7 +140,7 @@ h2 {
         flex-direction: column;
     }
 
-/*--------------Location*/
+/*--------------yogis*/
 .location {
     background-color: rgb(248, 166, 139);
     padding: 2rem;
@@ -157,14 +157,24 @@ h4 {
 .remove-vh {
     height: 100%;
 }
-/*--------------/.Location*/
+
 .location-media {
     height: auto;
 }
+/*--------------/.yogis*/
 
 /*--------------Contact*/
 .contact-label {
     background-color: whitesmoke;
+}
+
+.col {
+margin-top: 3rem;
+}
+
+.row {
+    margin-right: 50px;
+    margin-left: 40px;
 }
 /*--------------/.Contact*/
 
@@ -172,7 +182,7 @@ h4 {
 .about-text {
 font-size: 20px;
 background-color: rgb(248, 166, 139);
-padding: 50px;
+padding: 10px;
 margin-top: 25px;
 margin-bottom: 50px;
 margin-left: 25px;
@@ -181,18 +191,19 @@ margin-right: 25px;
 
 /*--------------On The Mat*/
 
-@media (min-){
-    .controls {
+.yogavideo {
+    background-color: rgb(248, 166, 139);
+    
+}
 
+@media (min-width:900px) {
+    video {
+        width: 500;
+        height: 250;
     }
 }
 
-.yogavideo {
-    background-color: rgb(248, 166, 139);
-    padding: 25px;
-}
-
-.video-design {
-    margin: 
-    width: 
+/*--------------on multiple tabs*/
+.container {
+    display: flex;
 }

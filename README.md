@@ -33,8 +33,8 @@ As a newcomer:
 5. 
 ### Wireframes
 Wireframes of the project can be found on these links:
-[1.wireframe](assets/images/wireframe-1.png)
-[2.wireframe](assets/images/wireframe-2.png)
+[1.Desktop-wireframe](assets/images/wireframe-1.png)
+[2.Mobile phone-wireframe](assets/images/wireframe-2.png)
 
 
 ## Features
