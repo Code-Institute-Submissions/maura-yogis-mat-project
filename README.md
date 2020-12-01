@@ -143,7 +143,7 @@ It also acts as a reflection of what users can expect in the near future.
 ### Code
 * A huge part of the CSS and HTML codes for the navigation bar were taken, from  
 a [video on youtube](https://www.youtube.com/watch?v=TJF4ldO91n4) by Drew Ryan 
-* Code institute- for the Love Running project- which inspired the photo made circular 
+* Code institute- code taken from the Love Running project lesson video- for the photo made circular 
 on the Home page, as well as the logo. 
 * The code for the background image was taken from a **code institute** lesson (whiskey page)
 * In the connect us form, the original code was taken from bootstrap and modified to make it reactive.
