@@ -7,8 +7,9 @@ A website for people who love yoga, those who are experienced and new to the wor
 The website acts as a platform to bring together those interested to take part in yoga related activities, as well as networking and socialsiing.
 The website includes information of locations and times where activities organised by 'The Yoga Mat' take place.
 The website targets people ages 18 or above.
+Visit the website:
                                
-[The Yoga Mat](https://maurasj.github.io/maura-yogis-mat-project/)
+Visit the website: [The Yoga Mat](https://maurasj.github.io/maura-yogis-mat-project/)
 
 ## UX
 
@@ -142,15 +143,16 @@ It also acts as a reflection of what users can expect in the near future.
 
 ### Code
 * A huge part of the CSS and HTML codes for the navigation bar were taken, from  
-a [video on youtube](https://www.youtube.com/watch?v=TJF4ldO91n4) by Drew Ryan 
+a [video on youtube](https://www.youtube.com/watch?v=TJF4ldO91n4) by Drew Ryan - as well as some part of the footer, 
+which was modified to fit project;s needs.
 * Code institute- code taken from the Love Running project lesson video- for the photo made circular 
 on the Home page, as well as the logo. 
-* The code for the background image was taken from a **code institute** lesson (whiskey page)
-* In the connect us form, the original code was taken from bootstrap and modified to make it reactive.
+* The code for the background image was taken from a **code institute** lesson (whiskey page).
+* In the connect us form, the original code was taken from [Bootstrap documentation](https://getbootstrap.com/docs/4.5/components/forms/) and modified to make it reactive.
 the code for embeding the videos were taken from Dani Krossing’s 
 [YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
 This was modified a little to make it more responsive.
-* A lot of code isnpiration was taken from the Code Institute video lessons, and bootstrap documentation.
+* A lot of code inspiration was taken from the Code Institute video lessons, and bootstrap documentation.
 * Majority of the code is mixed with bootstrap codes, to make it more resposnive or/and better design.
 ### Text
 * The text found in the project was written by the developer.
@@ -167,11 +169,9 @@ This was modified a little to make it more responsive.
 * A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
 specifically on making the circular picture more responsive.
 * Thank you to the Code Institute Tutors, that sent reading resources, to help me figure out my queries, as well as helping me debug codes.
-
+* Thank you to my firends Mendy, Emerald, Alberto and others, for their feedback on the project, as a user.
 
 ### Problems
-There is a problem with the circular picture, in order to make it responsive ,the viewer is unable 
-to see the full picture.
 
 ### Future developments
 * A page that will show pictures and credentials of the tutors.

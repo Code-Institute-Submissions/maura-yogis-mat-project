@@ -30,7 +30,8 @@ in the videos, **On The Mat** page.
 * On the Chrome browser, the website loads at a reasonable rate, the photos take longer to load,
 however once its loaded more than once it loads faster everytime.
 ![lighthouse testing](assets/images/lighthouse-index1.png)
-This snippet shows lighthouse recomendations before being met.
+This snippet shows lighthouse recomendations before being met. Peformance and SEO did not have
+ good scores.
 ![lighthouse testing after](assets/images/lighthouse-index.png)
 Here is a spippet of the end result, as the recommendations were followed. Such as
 to change the format of the images from png to jpg, make the text clearer for the viwer,
@@ -53,7 +54,10 @@ This has now been fixed, when a row property on css file was deleted.
 
 ## Testing on mobile phones
 - The videos found o **On The Mat** page won't play on the iphone11.
-
+-There was a problem with the circular picture, in order to make it responsive ,the viewer is unable 
+to see the full picture. This has been fixed, with [Photoshop](https://photoshop.adobe.com/_) to resize the image, making it smaller, 
+so it would fit into a mobile screen.
+- On **About us** page the content flowed over the footer, this was fixed by adding the attribute **remove-vh**
 ## Bugs
 
 ### Unsolved Bugs
