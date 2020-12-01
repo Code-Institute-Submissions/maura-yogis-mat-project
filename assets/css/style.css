@@ -104,6 +104,9 @@ h2 {
     color: #3fb481;
 }
 
+.list-inline {
+    font-size: 18px;
+}
 .stay-connected{
     margin-left: 1%;
 }

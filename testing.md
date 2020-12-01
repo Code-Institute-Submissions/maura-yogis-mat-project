@@ -29,7 +29,12 @@ in the videos, **On The Mat** page.
 1. Chrome
 * On the Chrome browser, the website loads at a reasonable rate, the photos take longer to load,
 however once its loaded more than once it loads faster everytime.
-
+![lighthouse testing](assets/images/lighthouse-index1.png)
+This snippet shows lighthouse recomendations before being met.
+![lighthouse testing after](assets/images/lighthouse-index.png)
+Here is a spippet of the end result, as the recommendations were followed. Such as
+to change the format of the images from png to jpg, make the text clearer for the viwer,
+and add missing properties to certain codes.
 2. Safari
 * The website loads very quicly on the Safari browser
 * The circular image appears differntly to when on the Chrome browser
@@ -53,6 +58,8 @@ This has now been fixed, when a row property on css file was deleted.
 
 ### Unsolved Bugs
 * The videos found o **On The Mat** page won't play on the iphone11.
+* The margin-bottom cannot be applied on the containers to separate them from the footer, as the attribute
+ **remove-vh** was added to stop content overflowing to the footer, because of the backgrownd image has a vh height value.
 
 ## Overall
 * The website is readable on both big and small devices, on big screens like computers, the writing is visible as well as the pictures.

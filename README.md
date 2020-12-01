@@ -25,12 +25,17 @@ As a practicioner of yoga:
 2. As a user the goal would be to find appropriate locations to practice yoga.
 3. As a user the aim is to expand the community I am already a part of as a person who practices yoga.
 4. As a fitness enthusiast, I want to start doing Yoga, and meet people who are already experienced, through the website.
+5. As a person who is advanced in terms of yoga practices, I would want to practice with others on the same level.
+6. As someone who usually does yoga indoors, I would like to try it outdoors.
+7. As an experienced yogi, I would like to get in contact with the organisers and offers some advice.
 As a newcomer:
 1. As a begginer I want to meet new people in the yoga community and share tips and experiences.
 2. Being knew to yoga, I want to find locations where yoga practices take place and join in.
 3. As someone who has never practiced yoga, I would like to find out more about the subject.
 4. As a person new to the practices of yoga, I would like to get a glimpse of what the exercises entail.
-5. 
+5. As someone who is looking for a new hobby, I would love to be surrounded by nature.
+6. As a newcomer, I would like to contact the leaders to present myself.
+
 ### Wireframes
 Wireframes of the project can be found on these links:
 [1.Desktop-wireframe](assets/images/wireframe-1.png)
@@ -163,6 +168,10 @@ specifically on making the circular picture more responsive.
 ### Problems
 There is a problem with the circular picture, in order to make it responsive ,the viewer is unable 
 to see the full picture.
+
+### Future developments
+* A page that will show pictures and credentials of the tutors.
+* A feature, to allow instant chatting- to connect tutors and students alike.
 
 ### Disclaimer
 The contents found on this website are only for educational purposes.
