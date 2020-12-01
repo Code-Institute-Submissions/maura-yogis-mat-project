@@ -1,5 +1,5 @@
 # The Yoga Mat
-<img src="assets/images/yogalogo2.png" title="logo">
+![Logo](assets/images/yogalogo2.png)
 
 
 
@@ -96,13 +96,17 @@ The follwoing instructions will allow the project to be cloned onto Gitpod
 1. Open the Chrome browser
 2. Create a GitHub account
 3. Click on this link [The Yoga Mat](https://github.com/maurasj/maura-yogis-mat-project) whilst logged in
-4. Just after the repository name, there is a green button with the name 'Gitpod', next click on the button with the name **Code**
-5. Copy the Link that shows up abd copy it to your local IDE
-6. 
-7. 
+4. Just after the repository name, there is a green button with the name 'Gitpod', 
+next click on the button with the name **Code**
+5. Copy the Link that shows
+6. Log in to your local IDE 
+7. Open up a bash terminal, navigate to the directory where you want to clone the repository 
+in the terminal 
+8. Type : git clone <then paste the link copied earlier>
+9. Press ENTER, and the project has been cloned.
 
 ## Media
-* The Media is inspired by locations exercises of Yoga can take place.
+* The Media is inspired by locations, that practices of Yoga can take place.
 
 ## Choice for Design
 1. Logo
@@ -140,12 +144,12 @@ on the Home page.
 the code for embeding the videos were taken from Dani Krossing’s 
 [YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
 This was modified a little to make it more responsive.
-
 ### Text
 * The text found in the project was written by the developer.
 ### Media 
-* The **photos** and **videos** used on this project, are owned by Emerald Peasah- these were used with permission from the owner.
-
+* The **videos** used on this project, are owned by Emerald Peasah- these were used with permission from the owner.
+* The **photos** showing a person on it are owned by Emerald Peasah- these were used with permission from the owner.
+* Other **photos** such as the backgorund image, and the rest with no people on it, are owned by the developer.
 ### Acknowledgements
 * I recieved inspiration for this project from my friend Emerald Peasah who loves to practice yoga on a weekly basis.
 * Thank you to my mentor Anthony Ngene who provied guidance on the design, and help with some coding,
