@@ -28,6 +28,7 @@ As a practicioner of yoga:
 5. As a person who is advanced in terms of yoga practices, I would want to practice with others on the same level.
 6. As someone who usually does yoga indoors, I would like to try it outdoors.
 7. As an experienced yogi, I would like to get in contact with the organisers and offers some advice.
+
 As a newcomer:
 1. As a begginer I want to meet new people in the yoga community and share tips and experiences.
 2. Being knew to yoga, I want to find locations where yoga practices take place and join in.
