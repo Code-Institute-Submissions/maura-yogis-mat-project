@@ -53,11 +53,11 @@ This has now been fixed, when a row property on css file was deleted.
 
 ## Testing on mobile phones
 - The videos found o **On The Mat** page won't play on the iphone11.
-- 
+
 ## Bugs
 
 ### Unsolved Bugs
-* The videos found o **On The Mat** page won't play on the iphone11.
+* The videos found o **On The Mat** page won't play on the safari browser.
 * The margin-bottom cannot be applied on the containers to separate them from the footer, as the attribute
  **remove-vh** was added to stop content overflowing to the footer, because of the backgrownd image has a vh height value.
 
