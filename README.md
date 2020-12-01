@@ -143,12 +143,14 @@ It also acts as a reflection of what users can expect in the near future.
 * A huge part of the CSS and HTML codes for the navigation bar were taken, from  
 a [video on youtube](https://www.youtube.com/watch?v=TJF4ldO91n4) by Drew Ryan 
 * Code institute- for the Love Running project- which inspired the photo made circular 
-on the Home page. 
+on the Home page, as well as the logo. 
 * The code for the background image was taken from a **code institute** lesson (whiskey page)
-* In the conect us form, the original code was taken from bootstrap and modified to make it reactive.
+* In the connect us form, the original code was taken from bootstrap and modified to make it reactive.
 the code for embeding the videos were taken from Dani Krossing’s 
 [YouTube video](https://www.youtube.com/watch?v=OOy764mDtiA)
 This was modified a little to make it more responsive.
+* A lot of code isnpiration was taken from the Code Institute video lessons, and bootstrap documentation.
+* Majority of the code is mixed with bootstrap codes, to make it more resposnive or/and better design.
 ### Text
 * The text found in the project was written by the developer.
 ### Media 
@@ -163,6 +165,7 @@ This was modified a little to make it more responsive.
 * Code institute- for the Love Running project- which inspired the photo made circular on the Home page. 
 * A big thank you to Jim Morel from Code Institute, who answered a few questions related to coding- 
 specifically on making the circular picture more responsive.
+* Thank you to the Code Institute Tutors, that sent reading resources, to help me figure out my queries, as well as helping me debug codes.
 
 
 ### Problems
